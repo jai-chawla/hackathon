@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import YogaFeature from './YogaFeature';
 import ReviewsPage from './ReviewsPage';
-import Pricing from './pricing';
+import Pricing from './Pricing';
 
 const Home = () => {
   return (
